@@ -1,0 +1,5 @@
+Value,Legend,Details,Input File Path,Output File Path
+null,1,"Change the data in the dob column from yyyy-mm-dd format to MMM dd, YYYY",C:/Ajira/Students.csv,C:/Ajira/Output.csv
+,2,Remove friends who has the age greater than 50,C:/Ajira/Friends.csv,C:/Ajira/Output.csv
+,3,"merge first_name and last_name into a single column name with the format {FIRST_NAME}, {LAST NAME}",C:/Ajira/Employees.csv,C:/Ajira/Output.csv
+,4,create a new column eligible_for_voting with the value as T if age > 18 else F,C:/Ajira/People.csv,C:/Ajira/Output.csv
